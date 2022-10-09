@@ -1,0 +1,10 @@
+package program10;
+
+class PrintNumber
+{
+    public static void main(String arg[])
+    {
+    for (int i=1; i<=10;i++)
+        System.out.print(i+"\t");
+    }
+}
